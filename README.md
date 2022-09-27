@@ -47,7 +47,11 @@
 
 # TASK 3 -
 
-* 
+* Create a Report/Presentation of task 1 and task 2 by using Powerpoint
+
+## SOLUTION -
+
+* #### For Solution Please Refer to : Task 3 of Python quantium
 
 
 
