@@ -28,8 +28,16 @@
 
 * #### For Solution Please Refer to : Quantium Python task 1.html
 
+
 # TASK 2 -
 
+* total sales revenue
+* total number of customers
+* average number of transactions per customer
+
+# DATASET -
+
+* #### For Dataset Please refer to: QVI_data.
 
 
 
