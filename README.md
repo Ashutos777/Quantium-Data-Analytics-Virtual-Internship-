@@ -6,4 +6,12 @@
 * Finding outliers and removing these (if applicable)
 * Checking data formats and correcting (if applicable)
 
-For dataset please refer to: [DATASET](https://github.com/Ashutos777/Quantium-Data-Analytics-Virtual-Internship-/blob/main/QVI_data.rar)
+## DATASET-
+
+* ### For Dataset Please refer to: QVI_data.rar 
+
+
+## SOLUTION - 
+
+
+
